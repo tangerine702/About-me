@@ -2,7 +2,7 @@
 # **关于tangerine702** 
 ~~如何找到我~~
 ## 【baklib】博客
- - [baklib站点](https://tchica.baklib.com/)  
+ - [baklib站点](https://tchica.baklib-free.com/)  访问密码mi10
  
 ## 【知乎】个人
  - [个人首页](https://www.zhihu.com/people/llsuinaiguo)
